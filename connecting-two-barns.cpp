@@ -1,3 +1,5 @@
+//USACO 2021 December Contest, Silver Problem 2
+
 #include <bits/stdc++.h>
 using namespace std;
 
